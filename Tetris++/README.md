@@ -55,13 +55,21 @@ Level increases every `100` points (configurable), and can be used to increase s
 
 Tetris++
 ├── Tetris.cpp # Main game loop
+
 ├── Game.h / Game.cpp # Game logic and control
+
 ├── Block.h / Block.cpp # Base class for Tetris blocks
+
 ├── ChildBlocks.cpp # All 7 classic + Bomb block definitions
+
 ├── Grid.h / Grid.cpp # Grid matrix logic
+
 ├── Position.h # 2D Position class (row, col)
+
 ├── Colors.h # Cell color definitions
+
 ├── Font/
+
 │ └── monogram.ttf # Retro pixel font
 
 
