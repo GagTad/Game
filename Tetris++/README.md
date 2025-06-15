@@ -51,6 +51,8 @@ Level increases every `100` points (configurable), and can be used to increase s
 
 ## 📁 Project Structure
 
+![Screenshot 2025-06-15 193239](https://github.com/user-attachments/assets/b912feb6-3e96-44ce-a602-97faaeccf846)
+
 Tetris++
 ├── Tetris.cpp # Main game loop
 ├── Game.h / Game.cpp # Game logic and control
