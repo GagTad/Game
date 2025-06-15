@@ -87,7 +87,8 @@ Multiplayer or AI mode
 Game saving
 
 
-![image](https://github.com/user-attachments/assets/642db757-8c41-470d-b28a-c94e36db254a)
+![Screenshot 2025-06-15 203615](https://github.com/user-attachments/assets/223e3e7b-cfdf-45ad-aec4-0332c53de1b4)
+
 
 
 
