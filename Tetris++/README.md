@@ -30,8 +30,8 @@ A C++ implementation of the classic **Tetris** game using the **Raylib** graphic
 ## 🧨 Bomb Block – Special Block
 
 - **ID:** `8`
-- **Appearance:** 2x2 block (like OBlock) with a unique dark color.
-- **Effect:** When locked, **destroys all tiles in a 3x3 area** around its position.
+- **Appearance:** 3x3 block  with a unique black color.
+- **Effect:** When locked, **destroys all tiles in a 4x4 area** around its position.
 - Appears randomly like any other block.
 
 ---
