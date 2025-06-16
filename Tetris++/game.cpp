@@ -225,6 +225,8 @@ void Game::Reset()
 	currentBlock = GetRandomBlock();
 	nextBlock = GetRandomBlock();
 	score = 0;
+	level = 1;
+	scoreForNextLevel = 100;
 }
 
 void Game::UpdateScore(int linesCleared , int moveDownPoints)
