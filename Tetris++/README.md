@@ -84,7 +84,6 @@ Music and sound effects
 
 Multiplayer or AI mode
 
-Game saving
 
 
 ![Screenshot 2025-06-15 203615](https://github.com/user-attachments/assets/223e3e7b-cfdf-45ad-aec4-0332c53de1b4)
