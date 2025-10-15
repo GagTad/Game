@@ -3,7 +3,6 @@
 
 Game::Game() { 
 
-	//grid = Grid()
 	blocks = GetAllBlocks();
 	currentBlock = GetRandomBlock();
 	nextBlock = GetRandomBlock();
