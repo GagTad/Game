@@ -257,5 +257,4 @@ void Game::UpdateScore(int linesCleared , int moveDownPoints)
 	
 
 
-	//avelacrac
 }
