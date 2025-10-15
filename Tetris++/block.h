@@ -22,4 +22,5 @@ public:
 	std::vector<Position> GetCellPosition();
 	int id;
 	std::map<int, std::vector<Position> > cells;
+
 };
