@@ -246,7 +246,7 @@ void Game::UpdateScore(int linesCleared , int moveDownPoints)
 
 	}
 	score += moveDownPoints;
-	//avelacrac
+	
 	if (score >= scoreForNextLevel)
 	{
 		level++;
